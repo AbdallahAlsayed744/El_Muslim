@@ -129,7 +129,7 @@ fun Suwarforreciters(navController: NavController, serv: Array<String>?, model:Q
 //                Context.MODE_PRIVATE
 //            )
             val x=Gson().toString()
-            val serv2="https://server8.mp3quran.net/afs/003.mp3"
+            val serv2="https://server8.mp3quran.net/afs/002.mp3"
 //           val y= Gson().fromJson(serv)
 //            Gson().toJson(serv).toString()
 
